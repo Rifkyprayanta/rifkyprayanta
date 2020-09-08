@@ -3,9 +3,18 @@
 - 👨‍🎓 I'm Currently studying at State University of Malang as a Informatics Engineering Student
 - 🎓 I'm also got Diplome Certificate at State Polytechnic of Malang as a Informatics Engineering Student
 - 💻 I'm Currently learning and focusing about being web developer using [NodeJs](https://nodejs.org/en/) and [ReactJs](https://reactjs.org/) technology.
-- 🖥️ I'm also create and build some web technology from my handcraft.
+- 🖥️ I'm also create and build some web technology.
 - ⏳ The web technology that i build right now is covid case sidoarjo using MERN Stack
-- 📇 You can also contact me at discord
+- 📇 If you want to build some project, don't hesitate to contact me at [Telegram](https://t.me/rifkyprayanta)
+
+#### Project that i've done :
+
+- Company Profile Billy Box Bangil
+- Building Lending of State Polytechnic of Banyuwangi
+- Electronic Logistic
+- Company Helpdesk Ticketing
+- Financial Accounting
+- COVID Case (Mern Stack)
 
 #### Reach me at sosial media :
 
