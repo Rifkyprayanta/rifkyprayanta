@@ -8,12 +8,10 @@
 
 #### Project that i've done :
 
-- Company Profile Billy Box Bangil
 - Building Lending of State Polytechnic of Banyuwangi
 - Electronic Logistic
 - Company Helpdesk Ticketing
 - Financial Accounting
-- [COVID Case API Sidoarjo](https://github.com/Rifkyprayanta/covid-sidoarjo-api)
 
 #### Reach me at sosial media :
 
